@@ -21,7 +21,7 @@ banner:
 ## Motivation
 
 > [!todo]
-> Not yet described. See [[Open Questions]].
+> Not yet described.
 
 ## Secrets
 

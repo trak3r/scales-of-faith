@@ -45,5 +45,3 @@ How characters learn new spells here: through a scroll (contents unknown).
 > [!todo]
 > - What exactly does *Holy Word of Power* do, and can anyone else learn it?
 > - What's on the "Scroll of ?" that teaches new spells?
->
-> See [[Open Questions]].

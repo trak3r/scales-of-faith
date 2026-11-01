@@ -34,7 +34,7 @@ By the end, the party is somewhat familiar with the world and has a small hook i
 ## Chapter 3: The Cabal
 
 > [!todo]
-> How is the [[Calla Cabal]] introduced? See [[Open Questions]].
+> How is the [[Calla Cabal]] introduced?
 
 Candidates from the notes that involve the Cabal: [[Espionage]], [[Wagon Train Heist]], [[Royal Auction]].
 

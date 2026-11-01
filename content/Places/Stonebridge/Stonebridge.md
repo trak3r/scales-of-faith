@@ -79,5 +79,3 @@ See [[Rumors and Hooks]] for side quests from every shop.
 > [!todo]
 > - What are the names of the river and the region?
 > - The original map was borrowed and can't be published. A new map is needed.
->
-> See [[Open Questions]].

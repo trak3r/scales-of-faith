@@ -18,5 +18,3 @@ aliases: [Savior]
 > [!todo]
 > - Where is The Savior buried?
 > - What was the source of his arcane power?
->
-> See [[Open Questions]].

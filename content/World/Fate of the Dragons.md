@@ -22,5 +22,3 @@ status: partial
 > - What role does the party play in the civil war?
 > - Where and how does it break into the real world?
 > - What are the possible endings?
->
-> See [[Open Questions]].

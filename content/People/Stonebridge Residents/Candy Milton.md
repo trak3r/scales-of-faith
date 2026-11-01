@@ -24,4 +24,4 @@ tags: [stonebridge]
 - [[Candy's Confectionery]]: her shop.
 
 > [!todo]
-> Motivation and secrets not yet described. See [[Open Questions]].
+> Motivation and secrets not yet described.

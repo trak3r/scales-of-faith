@@ -15,7 +15,7 @@ banner:
 - **Smell:**
 
 > [!todo]
-> Appearance details are mostly missing. See [[Open Questions]].
+> Appearance details are mostly missing.
 
 ## Personality
 
@@ -67,5 +67,3 @@ banner:
 > - What is The Sage's arc? How does he move the story forward?
 > - How does he play into [[U'gachaka]]?
 > - Why does he carry [[Dragon Blood]]?
->
-> See [[Open Questions]].

@@ -36,4 +36,4 @@ When a character holds the orb and concentrates:
 > The vision shows the surviving dragons in [[The Plane of Dreams]].
 
 > [!todo]
-> The old notes call this "the Astral plane" here and "the Dream plane" elsewhere. "Dragon Eye Orb" is a working name. See [[Open Questions]].
+> The old notes call this "the Astral plane" here and "the Dream plane" elsewhere. "Dragon Eye Orb" is a working name.

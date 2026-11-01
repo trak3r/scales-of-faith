@@ -18,7 +18,7 @@ tags: [stonebridge]
 ## Personality
 
 > [!todo]
-> Not yet described. See [[Open Questions]].
+> Not yet described.
 
 ## Secrets
 

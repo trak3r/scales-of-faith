@@ -85,4 +85,4 @@ This is a traveling troupe in a small backwoods town, so the coin prizes are sma
 - Some cheap glass costume jewelry turns out to be magical.
 
 > [!todo]
-> The archery contest needs a better idea than a plain target. See [[Open Questions]].
+> The archery contest needs a better idea than a plain target.

@@ -40,4 +40,4 @@ banner:
 - [[The First Last Dragon]], [[Dinner with the Sage]] (as the subject of The Sage's questions)
 
 > [!todo]
-> He has no name. Does he return? See [[Open Questions]].
+> He has no name. Does he return?

@@ -28,5 +28,3 @@ banner:
 > [!todo]
 > - Where is the auction held?
 > - How does the party get involved: as bidders, guards or thieves?
->
-> See [[Open Questions]].

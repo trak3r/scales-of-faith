@@ -41,4 +41,4 @@ Pick or roll (see [[Random Encounters]]):
 - a ghost ship
 
 > [!todo]
-> Is the dragon-shaped outcrop a real stone dragon? See [[Open Questions]].
+> Is the dragon-shaped outcrop a real stone dragon?

@@ -15,7 +15,7 @@ banner:
 - **Smell:**
 
 > [!todo]
-> Appearance details are mostly missing. See [[Open Questions]].
+> Appearance details are mostly missing.
 
 ## Personality
 
@@ -26,7 +26,7 @@ banner:
 ## Motivation
 
 > [!todo]
-> Undefined. See [[Open Questions]].
+> Undefined.
 
 ## Secrets
 
@@ -53,5 +53,3 @@ banner:
 > [!todo]
 > - Why does he exist in this world, and how will he shape the story?
 > - How does he play into [[U'gachaka]]?
->
-> See [[Open Questions]].

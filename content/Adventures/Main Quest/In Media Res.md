@@ -53,4 +53,4 @@ banner:
 - The session ends with the party established in [[Stonebridge]]. Lead into [[The First Last Dragon]].
 
 > [!todo]
-> What do the bandits want, and do they return? See [[Open Questions]].
+> What do the bandits want, and do they return?

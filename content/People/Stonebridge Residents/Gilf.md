@@ -29,4 +29,4 @@ tags: [stonebridge]
 - The town glassblower: he's the main customer.
 
 > [!todo]
-> Appearance, personality and motivation need detail. See [[Open Questions]].
+> Appearance, personality and motivation need detail.

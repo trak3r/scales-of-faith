@@ -36,4 +36,4 @@ banner:
 > Truman watches the whole fight and doesn't intervene.
 
 > [!todo]
-> What happened to the lumberjacks? See [[Open Questions]].
+> What happened to the lumberjacks?

@@ -30,5 +30,3 @@ banner:
 > [!todo]
 > - Do both orders really use a dragon tattoo? It's odd for the dragon-smashing Order. Perhaps each order has its own design.
 > - Who is the tattoo-collecting zealot?
->
-> See [[Open Questions]].

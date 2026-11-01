@@ -20,4 +20,4 @@ tags: [wilds]
 - [[Naiad of the Waterfall]]: a poor spawning season pushes fishermen too far upriver.
 
 > [!todo]
-> The river needs a name. See [[Open Questions]].
+> The river needs a name.

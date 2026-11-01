@@ -66,5 +66,3 @@ See [[Jungle Perils]] and [[Random Encounters]].
 > - What's the point of the party finding this dragon? What will they learn from it?
 > - How do [[The Sage]] and [[The Survivor]] play into this encounter?
 > - Where is the bookstore?
->
-> See [[Open Questions]].

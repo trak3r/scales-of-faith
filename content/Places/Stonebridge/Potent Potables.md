@@ -27,4 +27,4 @@ The town's potion shop and arcanist. Its owner's lifelong obsession with herbs a
 - **Fragile cargo.** Deliver a wagon full of fragile potion bottles, in sealed crates packed with straw, along a long, bumpy road.
 
 > [!todo]
-> The glassblower doesn't have a page yet. See [[Open Questions]].
+> The glassblower doesn't have a page yet.

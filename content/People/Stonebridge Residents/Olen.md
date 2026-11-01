@@ -38,4 +38,4 @@ tags: [stonebridge]
 - [[Rumors and Hooks]] (the security test)
 
 > [!todo]
-> "Olen's mercs" need detail: who leads them? See [[Open Questions]].
+> "Olen's mercs" need detail: who leads them?

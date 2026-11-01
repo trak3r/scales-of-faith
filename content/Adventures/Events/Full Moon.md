@@ -29,4 +29,4 @@ banner:
 > - If discovered in his cell, he is surrounded by small sewer rats, like a pied piper.
 
 > [!todo]
-> What happens if the party exposes him, or if the cell fails? See [[Open Questions]].
+> What happens if the party exposes him, or if the cell fails?

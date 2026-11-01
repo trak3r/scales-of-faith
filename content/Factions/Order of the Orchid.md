@@ -49,5 +49,3 @@ To the public, the Order is one church among many, devoted to a holy book about 
 > [!todo]
 > - Where does the Order stay in [[Shoreside]]?
 > - Why is it named for an orchid?
->
-> See [[Open Questions]].

@@ -38,5 +38,3 @@ Behind the scenes, the [[Celtic Courier]] in [[Stonebridge]] is run by a circle 
 > [!todo]
 > - How does [[Truman the Druid]] relate to the courier druids?
 > - The [[Calla Cabal]] is mostly druids and rangers. Is there a connection?
->
-> See [[Open Questions]].

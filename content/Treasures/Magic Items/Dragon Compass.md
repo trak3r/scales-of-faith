@@ -20,4 +20,4 @@ banner:
 - The Order's hidden office, in [[Espionage]].
 
 > [!todo]
-> "Dragon Compass" is a working name. See [[Open Questions]].
+> "Dragon Compass" is a working name.

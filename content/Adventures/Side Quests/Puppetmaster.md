@@ -40,5 +40,3 @@ See [[The Duke's Keep]].
 > [!todo]
 > - What does the party want here?
 > - How do they expose the duke, and what happens if they do?
->
-> See [[Open Questions]].

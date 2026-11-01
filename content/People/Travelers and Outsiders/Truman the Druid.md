@@ -41,5 +41,3 @@ tags: [wilds]
 > [!todo]
 > - He may overlap too much with [[The Survivor]].
 > - How does he relate to the [[Courier Druids]]?
->
-> See [[Open Questions]].

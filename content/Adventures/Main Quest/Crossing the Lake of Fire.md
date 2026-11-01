@@ -21,14 +21,14 @@ banner:
 ### The Crossing
 
 > [!todo]
-> A puzzle for the party to reach the statue across the lava. See [[Open Questions]].
+> A puzzle for the party to reach the statue across the lava.
 
 ### The Statue
 
 > [!todo]
-> What does the party do when they reach it? See [[Open Questions]].
+> What does the party do when they reach it?
 
 ## Treasure
 
 > [!todo]
-> What is the reward? See [[Open Questions]].
+> What is the reward?

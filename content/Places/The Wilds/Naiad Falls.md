@@ -31,4 +31,4 @@ A waterfall upriver from [[Stonebridge]] spills into a **very deep pool**. A **p
 - [[Naiad of the Waterfall]]: fishermen are breaking the pact.
 
 > [!todo]
-> What is the magic item, and does the falls tie into the main plot? See [[Open Questions]].
+> What is the magic item, and does the falls tie into the main plot?

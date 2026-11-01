@@ -14,7 +14,7 @@ banner:
 ## Scenes
 
 > [!todo]
-> Integrate The Sage into other encounters. See [[Open Questions]].
+> Integrate The Sage into other encounters.
 
 ## Secrets
 
@@ -29,4 +29,4 @@ banner:
 The Sage also appears in [[Royal Auction]], [[The Party Returns]] and [[The Crypt]], and is a lead to [[Dragon Reef]].
 
 > [!todo]
-> What's The Sage's arc? How does he move the story forward and shape it? See [[Open Questions]].
+> What's The Sage's arc? How does he move the story forward and shape it?

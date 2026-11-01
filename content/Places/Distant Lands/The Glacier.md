@@ -26,4 +26,4 @@ tags: [distant-lands, dragon-site]
 - [[Frozen in Ice]]
 
 > [!todo]
-> Is it a stone dragon in ice, or a dragon made of ice? See [[Open Questions]].
+> Is it a stone dragon in ice, or a dragon made of ice?

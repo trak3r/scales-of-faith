@@ -48,5 +48,3 @@ tags: [shoreside]
 > [!todo]
 > - Where is the [[Order of the Orchid]] staying?
 > - The suspicious captain needs a name ("Captain TBD" in the notes).
->
-> See [[Open Questions]].

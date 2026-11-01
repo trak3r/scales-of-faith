@@ -30,4 +30,4 @@ banner:
 - [[The Sage]] sends the party to fetch it.
 
 > [!todo]
-> "The Ebony Dragon" is a working name; the old notes just call it "The Artifact." What does The Sage want with it? See [[Open Questions]].
+> "The Ebony Dragon" is a working name; the old notes just call it "The Artifact." What does The Sage want with it?

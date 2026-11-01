@@ -51,5 +51,3 @@ banner:
 > - How is the Cabal introduced to the party (Chapter 3 of the [[Campaign Arc]])?
 > - The notes describe members as druids and rangers, but also as mages.
 > - What does "Calla" mean?
->
-> See [[Open Questions]].

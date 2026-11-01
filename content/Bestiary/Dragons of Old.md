@@ -18,7 +18,7 @@ banner:
 ## Behavior and Tactics
 
 > [!todo]
-> Dragon kinds, temperaments and abilities are undefined. See [[Open Questions]].
+> Dragon kinds, temperaments and abilities are undefined.
 
 ## Stat Suggestion
 

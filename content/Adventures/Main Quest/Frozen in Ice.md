@@ -32,4 +32,4 @@ See [[Yeti]].
 > The dragon may be a [[Stone Dragon]] inside the ice, or a dragon *made of* ice, if that can be made to fit the lore.
 
 > [!todo]
-> The scenes, the rival order's role and the reward are not yet written. See [[Open Questions]].
+> The scenes, the rival order's role and the reward are not yet written.

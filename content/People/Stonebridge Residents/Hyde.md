@@ -42,4 +42,4 @@ tags: [stonebridge]
 - [[Full Moon]], [[Hunt for the Dire Bear]]
 
 > [!todo]
-> Appearance not yet described. See [[Open Questions]].
+> Appearance not yet described.

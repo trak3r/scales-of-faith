@@ -13,4 +13,4 @@ The secret history, in order. Common folk know none of it.
 5. [[The Purge]]: the Order's secret crusade against the statues.
 
 > [!todo]
-> The timeline isn't fixed yet. The notes say both "millennia ago" and "a thousand years." See [[Open Questions]].
+> The timeline isn't fixed yet. The notes say both "millennia ago" and "a thousand years."

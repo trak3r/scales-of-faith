@@ -59,7 +59,7 @@ Once the party leaves the main road for a game trail, a band of [[Wild Wood Elve
 ## Treasure
 
 > [!todo]
-> No treasure or reward is specified. See [[Open Questions]].
+> No treasure or reward is specified.
 
 ## Aftermath
 

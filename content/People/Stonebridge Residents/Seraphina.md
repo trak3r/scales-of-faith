@@ -37,5 +37,3 @@ tags: [stonebridge]
 > [!todo]
 > - What is she really?
 > - What's her motivation?
->
-> See [[Open Questions]].

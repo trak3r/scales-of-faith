@@ -38,5 +38,3 @@ Scattered across the world are statues of exquisite detail: a boulder in a fores
 > [!todo]
 > - How exactly does the Cabal revive a dragon?
 > - Is the Frozen in Ice dragon stone inside ice, or a dragon *made of* ice?
->
-> See [[Open Questions]].

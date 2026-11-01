@@ -16,5 +16,3 @@ aliases: [Dream Plane, Plane of Dreams]
 > [!todo]
 > - The notes also call this place the **Astral plane** (in [[Wagon Train Heist]]). Settle on one name.
 > - What is the plane like, and can mortals visit it?
->
-> See [[Open Questions]].

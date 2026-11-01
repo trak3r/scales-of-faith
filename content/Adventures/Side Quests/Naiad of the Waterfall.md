@@ -50,5 +50,3 @@ banner:
 > [!todo]
 > - Can this be tied into the main plot?
 > - What's the magic item?
->
-> See [[Open Questions]].

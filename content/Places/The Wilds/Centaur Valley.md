@@ -20,4 +20,4 @@ A valley near [[Stonebridge]], bordered by [[The Bulette Grounds]]. The centaurs
 - A missing centaur youth (see [[Centaur Clan]]).
 
 > [!todo]
-> No description of the valley itself yet. See [[Open Questions]].
+> No description of the valley itself yet.

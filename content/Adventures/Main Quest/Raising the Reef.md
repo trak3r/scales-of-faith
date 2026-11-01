@@ -74,5 +74,3 @@ See [[Creatures of the Reef]].
 > [!todo]
 > - The suspicious captain needs a name.
 > - Where is the Order staying?
->
-> See [[Open Questions]].

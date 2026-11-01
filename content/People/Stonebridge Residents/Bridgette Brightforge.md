@@ -42,4 +42,4 @@ tags: [stonebridge]
 - [[The Party Returns]]
 
 > [!todo]
-> Who is she hiding from, and why? See [[Open Questions]].
+> Who is she hiding from, and why?

@@ -36,5 +36,3 @@ The world is played straight. The twist does the heavy lifting, and humor comes 
 > - The campaign's climax and the party's role in the dragons' civil war aren't defined yet.
 > - [[The Survivor]]'s purpose in the story isn't defined yet.
 > - [[The Sage]]'s arc isn't defined yet.
->
-> See [[Open Questions]].

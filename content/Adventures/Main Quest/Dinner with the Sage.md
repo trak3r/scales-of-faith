@@ -64,5 +64,3 @@ What he wants to discover:
 
 > [!todo]
 > - What's the point of this dinner if The Sage never returns? See [[We Meet Again]].
->
-> See [[Open Questions]].

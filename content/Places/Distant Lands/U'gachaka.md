@@ -43,5 +43,3 @@ tags: [distant-lands, dragon-site]
 > [!todo]
 > - What's the point of the party finding this dragon? What do they learn from it?
 > - How do [[The Sage]] and [[The Survivor]] play into this?
->
-> See [[Open Questions]].

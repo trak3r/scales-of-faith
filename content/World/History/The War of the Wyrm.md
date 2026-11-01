@@ -18,5 +18,3 @@ status: partial
 > - Who was the leader of nations?
 > - What started the war?
 > - When was it? The notes say both "millennia" and "a thousand years."
->
-> See [[Open Questions]].

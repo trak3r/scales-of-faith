@@ -28,4 +28,4 @@ tags: [stonebridge]
 - [[Carnal Candles]]: his shop.
 
 > [!todo]
-> Secrets not yet described. See [[Open Questions]].
+> Secrets not yet described.
