@@ -1,0 +1,26 @@
+.DS_Store
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+
+# Secrets / local env (never commit)
+.env
+.env.*
+
+# Dungeondraft / map tool local state (licensed assets never committed)
+*.dungeondraft
+*.dungeondraft_pack
+*.wonderdraft_map
+**/asset_library/
+**/thumbnails/
+
+# Bulky map exports stay local; publish web-sized PNGs via content/attachments/maps/
+maps/*/exports/*
+!maps/*/exports/.gitkeep
+!maps/*/exports/README.md
