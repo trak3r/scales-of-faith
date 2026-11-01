@@ -34,4 +34,6 @@ Pushing to `main` deploys to GitHub Pages via `.github/workflows/deploy.yml`.
 
 ## License
 
-Site content © the author. The Quartz engine is MIT licensed (see `LICENSE.txt`).
+Copyright © 2026 Thomas Davis. All rights reserved. See `LICENSE`.
+
+The Quartz engine is MIT licensed and is not covered by that notice. See `LICENSE-QUARTZ.txt`.

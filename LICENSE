@@ -1,0 +1,18 @@
+Copyright (c) 2026 Thomas Davis. All rights reserved.
+
+Scales of Faith, including all written content, artwork, maps, and other
+material in the content/ and maps/ directories, is the property of
+Thomas Davis. No part of it may be reproduced, distributed, modified, or used
+to create derivative works without prior written permission from the copyright
+holder, except as permitted by applicable law.
+
+Viewing the published site and the contents of this repository for personal,
+non-commercial reference does not grant any license to the material.
+
+Third-party software
+
+This site is built with Quartz (https://github.com/jackyzha0/quartz), which is
+not covered by the notice above. The Quartz source code, including the quartz/
+directory, quartz.config.ts, quartz.layout.ts, and related build files, remains
+under the MIT License; see LICENSE-QUARTZ.txt. Modifications to Quartz files in
+this repository are also provided under the MIT License.

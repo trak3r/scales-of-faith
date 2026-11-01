@@ -7,6 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
+    copyright: "© 2026 Thomas Davis. All rights reserved.",
     links: {
       "Source on GitHub": "https://github.com/trak3r/scales-of-faith",
     },
