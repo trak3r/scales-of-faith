@@ -3,8 +3,10 @@ title: The Sage
 type: person
 status: partial
 aliases: [Simeon Chesterguile, Sage]
-banner:
+banner: the-sage.jpg
 ---
+
+![[the-sage.jpg]]
 
 *A wealthy, secretive investigator who has spied on the Order of the Orchid for decades, and who refuses to believe in dragons.*
 

@@ -3,7 +3,10 @@ title: The Glacier
 type: place
 status: stub
 tags: [distant-lands, dragon-site]
+banner: the-glacier.jpg
 ---
+
+![[the-glacier.jpg]]
 
 *A melting glacier has revealed a dragon frozen in the ice.*
 

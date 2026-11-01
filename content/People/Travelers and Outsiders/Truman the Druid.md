@@ -3,9 +3,11 @@ title: Truman the Druid
 type: person
 status: partial
 aliases: [Tree Man, Truman]
-banner:
+banner: truman-the-druid.jpg
 tags: [wilds]
 ---
+
+![[truman-the-druid.jpg]]
 
 *A hermit druid with a comically long staff, whom the townsfolk call "Tree Man."*
 

@@ -3,8 +3,10 @@ title: Brock Blusterhaus
 type: person
 status: complete
 aliases: [The Blowhard, Brock]
-banner:
+banner: brock-blusterhaus.jpg
 ---
+
+![[brock-blusterhaus.jpg]]
 
 *"The Blowhard": a tipsy tavern braggart whose tales of adventure are all stolen from books.*
 

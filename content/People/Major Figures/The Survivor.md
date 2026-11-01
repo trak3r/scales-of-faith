@@ -3,8 +3,10 @@ title: The Survivor
 type: person
 status: stub
 aliases: [Eldegar]
-banner:
+banner: the-survivor.jpg
 ---
+
+![[the-survivor.jpg]]
 
 *A wandering stranger with the strength of a barbarian, the power of a wizard, and violent mood swings.*
 

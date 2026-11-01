@@ -2,9 +2,11 @@
 title: Stonebridge
 type: place
 status: complete
-banner:
+banner: stonebridge.jpg
 tags: [stonebridge]
 ---
+
+![[stonebridge.jpg]]
 
 *A remote river town, the party's home base for the whole campaign.*
 

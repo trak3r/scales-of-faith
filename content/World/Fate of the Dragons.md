@@ -2,11 +2,14 @@
 title: Fate of the Dragons
 type: lore
 status: partial
+banner: fate-of-the-dragons.jpg
 ---
 
 *What happens when the dragons wake up.*
 
 > [!secret]- GM Only
+> ![[fate-of-the-dragons.jpg]]
+>
 > ## No Time Has Passed
 > - When a dragon is revived, **no time has passed** from its perspective.
 > - From its point of view, strange humans have suddenly appeared and claim that its race, thriving mere seconds ago, is practically extinct, and that a *thousand years* have passed.

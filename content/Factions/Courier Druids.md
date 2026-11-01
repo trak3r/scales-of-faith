@@ -2,8 +2,10 @@
 title: Courier Druids
 type: faction
 status: partial
-banner:
+banner: courier-druids.jpg
 ---
+
+![[courier-druids.jpg]]
 
 *A circle of elven and half-elven druids who deliver the mail by animal.*
 

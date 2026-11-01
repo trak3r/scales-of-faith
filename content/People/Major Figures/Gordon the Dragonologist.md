@@ -3,8 +3,10 @@ title: Gordon the Dragonologist
 type: person
 status: complete
 aliases: [Gordon, Gordie]
-banner:
+banner: gordon-the-dragonologist.jpg
 ---
+
+![[gordon-the-dragonologist.jpg]]
 
 *A self-titled halfling expert on dragons, which, he insists, are invisible and silent.*
 

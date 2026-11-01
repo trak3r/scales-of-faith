@@ -3,8 +3,10 @@ title: The Ebony Dragon
 type: artifact
 status: complete
 aliases: [The Artifact]
-banner:
+banner: the-ebony-dragon.jpg
 ---
+
+![[the-ebony-dragon.jpg]]
 
 *A small black statue of a dragon wrapped around the world. It radiates pure evil.*
 

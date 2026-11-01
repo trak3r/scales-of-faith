@@ -2,11 +2,14 @@
 title: The War of the Wyrm
 type: lore
 status: partial
+banner: the-war-of-the-wyrm.jpg
 ---
 
 *The war between dragons and men that nobody remembers.*
 
 > [!secret]- GM Only
+> ![[the-war-of-the-wyrm.jpg]]
+>
 > - Long ago, there were dragons.
 > - A great leader of nations declared war between dragons and men.
 > - The war raged for **centuries**.

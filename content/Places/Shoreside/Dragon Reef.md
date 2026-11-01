@@ -2,9 +2,11 @@
 title: Dragon Reef
 type: place
 status: complete
-banner:
+banner: dragon-reef.jpg
 tags: [shoreside, dragon-site]
 ---
+
+![[dragon-reef.jpg]]
 
 *A reef offshore that looks like a dragon in flight. Sailors touch it for luck.*
 

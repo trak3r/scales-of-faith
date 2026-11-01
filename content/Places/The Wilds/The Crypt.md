@@ -2,9 +2,11 @@
 title: The Crypt
 type: place
 status: complete
-banner:
+banner: the-crypt.jpg
 tags: [wilds, dungeon]
 ---
+
+![[the-crypt.jpg]]
 
 *A tomb whose master's name has been chiseled away. Someone has already been inside.*
 

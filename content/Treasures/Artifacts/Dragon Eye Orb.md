@@ -2,8 +2,10 @@
 title: Dragon Eye Orb
 type: artifact
 status: complete
-banner:
+banner: dragon-eye-orb.jpg
 ---
+
+![[dragon-eye-orb.jpg]]
 
 *A reptilian eyeball the size of a bowling ball. Its pupil seems to move.*
 

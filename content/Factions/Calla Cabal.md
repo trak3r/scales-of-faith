@@ -3,8 +3,10 @@ title: Calla Cabal
 type: faction
 status: partial
 aliases: [The Cabal, Cabal]
-banner:
+banner: calla-cabal.jpg
 ---
+
+![[calla-cabal.jpg]]
 
 *An organization so secret that practically nobody knows it exists.*
 

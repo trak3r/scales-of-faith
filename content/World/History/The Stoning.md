@@ -2,11 +2,14 @@
 title: The Stoning
 type: lore
 status: complete
+banner: the-stoning.jpg
 ---
 
 *One spell that turned every living dragon to stone.*
 
 > [!secret]- GM Only
+> ![[the-stoning.jpg]]
+>
 > - A brilliant wizard, now known only as [[The Savior]], discovered a way to harness an enormous amount of arcane power.
 > - He used it to cast a **single spell** that turned **every living dragon to stone instantaneously**, wherever it was: sleeping in a cavern, swimming underwater, in mid-flight.
 > - Casting the spell left him in a **vegetative state**.

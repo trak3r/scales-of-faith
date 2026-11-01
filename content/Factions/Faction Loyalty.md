@@ -3,8 +3,10 @@ title: Faction Loyalty
 type: lore
 status: partial
 aliases: [Earning the Tattoo, The Tattoo]
-banner:
+banner: dragon-tattoo.jpg
 ---
+
+![[dragon-tattoo.jpg]]
 
 *To learn an order's secrets, you have to earn the tattoo.*
 

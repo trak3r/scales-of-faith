@@ -3,7 +3,10 @@ title: A World Without Dragons
 type: lore
 status: complete
 aliases: [Dragons or Lack Thereof]
+banner: a-world-without-dragons.jpg
 ---
+
+![[a-world-without-dragons.jpg]]
 
 *What everyone knows: there are no dragons.*
 

@@ -3,9 +3,11 @@ title: Celtic Courier
 type: place
 status: complete
 aliases: [Pegasus Parcel]
-banner:
+banner: courier-druids.jpg
 tags: [stonebridge, business]
 ---
+
+![[courier-druids.jpg]]
 
 *Messages and packages delivered by willing animal companions.*
 

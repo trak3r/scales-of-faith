@@ -2,8 +2,10 @@
 title: Dragon Claw Daggers
 type: artifact
 status: complete
-banner:
+banner: dragon-claw-daggers.jpg
 ---
+
+![[dragon-claw-daggers.jpg]]
 
 *A pair of blades said to be made from actual dragon claws.*
 

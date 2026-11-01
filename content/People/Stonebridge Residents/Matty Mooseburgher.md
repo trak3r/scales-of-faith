@@ -3,9 +3,11 @@ title: Matty Mooseburgher
 type: person
 status: complete
 aliases: [Matthias Mooseburgher, Matty]
-banner:
+banner: matty-mooseburgher.jpg
 tags: [stonebridge]
 ---
+
+![[matty-mooseburgher.jpg]]
 
 *The best hireling in town: chipper, tireless, and always comes home unscathed.*
 

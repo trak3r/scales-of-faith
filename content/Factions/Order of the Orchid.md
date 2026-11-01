@@ -3,8 +3,10 @@ title: Order of the Orchid
 type: faction
 status: partial
 aliases: [The Order, Order]
-banner:
+banner: order-of-the-orchid.jpg
 ---
+
+![[order-of-the-orchid.jpg]]
 
 *A disciplined church of black-armored paladins that most folk dismiss as a quirky cult.*
 

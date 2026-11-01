@@ -3,11 +3,14 @@ title: The Savior
 type: lore
 status: partial
 aliases: [Savior]
+banner: the-savior.jpg
 ---
 
 *The nameless wizard who ended the War of the Wyrm.*
 
 > [!secret]- GM Only
+> ![[the-savior.jpg]]
+>
 > - He cast the spell of [[The Stoning]] and was left in a vegetative state.
 > - He was **hidden away** from the public eye.
 > - There is **no formal record of his name or appearance**. He is simply The Savior.

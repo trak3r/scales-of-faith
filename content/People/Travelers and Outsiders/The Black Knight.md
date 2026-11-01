@@ -2,8 +2,10 @@
 title: The Black Knight
 type: person
 status: partial
-banner:
+banner: the-black-knight.jpg
 ---
+
+![[the-black-knight.jpg]]
 
 *A lone Knight of the Order on a time-sensitive holy quest, short of companions.*
 

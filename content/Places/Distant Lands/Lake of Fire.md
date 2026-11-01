@@ -2,9 +2,11 @@
 title: Lake of Fire
 type: place
 status: stub
-banner:
+banner: lake-of-fire.jpg
 tags: [distant-lands, dragon-site]
 ---
+
+![[lake-of-fire.jpg]]
 
 *A statue in a lake of lava atop an active volcano.*
 

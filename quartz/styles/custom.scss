@@ -34,6 +34,11 @@
 
 // Ink art sits on the parchment background; softly inverted in dark mode
 article img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 28rem;
+  margin: 0 auto;
   border-radius: 2px;
   mix-blend-mode: multiply;
 }

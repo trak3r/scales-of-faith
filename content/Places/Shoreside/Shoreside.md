@@ -2,9 +2,11 @@
 title: Shoreside
 type: place
 status: partial
-banner:
+banner: shoreside.jpg
 tags: [shoreside]
 ---
+
+![[shoreside.jpg]]
 
 *A coastal town climbing from the docks to the hilltop, and the gateway to Dragon Reef.*
 

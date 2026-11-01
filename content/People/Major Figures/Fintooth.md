@@ -2,8 +2,10 @@
 title: Fintooth
 type: person
 status: complete
-banner:
+banner: fintooth.jpg
 ---
+
+![[fintooth.jpg]]
 
 *A grey-skinned shark-man who runs a gang of minions from a driftwood throne in the sewers, and talks like the Godfather.*
 

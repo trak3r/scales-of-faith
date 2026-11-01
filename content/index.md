@@ -2,8 +2,10 @@
 title: Scales of Faith
 type: index
 status: partial
-banner:
+banner: home-banner.jpg
 ---
+
+![[home-banner.jpg]]
 
 > *"I will entertain a plethora of outlandish theories, but supposing the existence of a creature from children's fairy tales is a bit too far."*
 > — [[The Sage]]

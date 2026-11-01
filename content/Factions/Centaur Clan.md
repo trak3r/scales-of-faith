@@ -3,8 +3,10 @@ title: Centaur Clan
 type: faction
 status: partial
 aliases: [Centaurs]
-banner:
+banner: centaur-clan.jpg
 ---
+
+![[centaur-clan.jpg]]
 
 *Neutral neighbors, as long as they're left undisturbed.*
 

@@ -2,8 +2,10 @@
 title: Dragon Blood
 type: artifact
 status: complete
-banner:
+banner: dragon-blood.jpg
 ---
+
+![[dragon-blood.jpg]]
 
 *A tiny vial of dark red sap, kept by a man who says dragons never existed.*
 

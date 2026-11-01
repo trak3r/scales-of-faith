@@ -3,7 +3,10 @@ title: The Stone Dragons
 type: lore
 status: partial
 aliases: [Stone Dragons, Stoned Dragons]
+banner: the-stone-dragons.jpg
 ---
+
+![[the-stone-dragons.jpg]]
 
 *Strange statues in strange places.*
 

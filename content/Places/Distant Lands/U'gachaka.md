@@ -3,9 +3,11 @@ title: U'gachaka
 type: place
 status: partial
 aliases: [Ooga Chaka, Ugachaka]
-banner:
+banner: ugachaka.jpg
 tags: [distant-lands, dragon-site]
 ---
+
+![[ugachaka.jpg]]
 
 *A faraway jungle where a tribe worships the statue of a winged snake.*
 
